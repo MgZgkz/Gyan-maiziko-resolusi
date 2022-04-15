@@ -2,4 +2,4 @@ Gyan Maiziko Resolusi
 - konsisten untuk mempelajari dunia pemrograman 
 - update dengan berita terbaru mengenai dunia pemrograman 
 - membuat website dan mengembangkan UI/UX nya 
-- Membuat Web design 
+- membuat konten
